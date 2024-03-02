@@ -1,3 +1,0 @@
-Remove volume styles (for now)
-Fix recents overview background/buttons
-Fix PixelParts ChargeControl
