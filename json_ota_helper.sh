@@ -193,7 +193,7 @@ else
     version="13"
 fi
 
-url="https://sourceforge.net/projects/evolution-x/files/${codename}/${version}/${filename}/download/"
+url="toBeChangedLater.com"
 
 display_diff() {
     local old_value=$1
